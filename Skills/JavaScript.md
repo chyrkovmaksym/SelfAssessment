@@ -29,7 +29,7 @@
   - `global`: 🖐️ used
   - `globalThis`: 🖐️ used
   - `window`: 🖐️ used
-  - Getters and setters: u
+  - Getters and setters: 🖐️ used
   - `__proto__`: 🖐️ used
   - `prototype`: 🖐️ used
   - Equality operators: 🖐️ used
@@ -88,7 +88,7 @@
   - `Function.prototype.call`: 🖐️ used
   - `Function.prototype.bind`: 🖐️ used
   - `Function.prototype.apply`: 🖐️ used
-  - `return`: u
+  - `return`: 🖐️ used
 - Data structures
   - `Array`: 🖐️ used
   - `Map`: 🖐️ used
@@ -103,7 +103,7 @@
   - `RegExp`: 🖐️ used
   - `Date`: 🖐️ used
   - `Math`: 🖐️ used
-  - `Reflect`: k
+  - `Reflect`: 🎓 known
   - `Error`: 🖐️ used
   - `Atomics`: 🎓 known
   - `JSON`: 🖐️ used

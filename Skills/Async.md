@@ -29,9 +29,9 @@
   - Async/await: 🖐️ used
   - Future: 🎓 known
   - Deferred: 🎓 known
-  - Sync generator: u
-  - Async Generator: u
-  - Async Iterator: u
+  - Sync generator: 🖐️ used
+  - Async Generator: 🖐️ used
+  - Async Iterator: 🖐️ used
   - Event: 🖐️ used
   - Coroutine: 🖐️ used
   - Goroutine: 👂 heard
@@ -47,14 +47,14 @@
   - Callbacks compose: 🚀 constructed
   - Async compose: 🎓 known
 - Async abstractions interfaces
-  - EventEmitter: u
+  - EventEmitter: 🖐️ used
   - Observable/Observer: 👂 heard
   - Readable: 🎓 known
   - Writable: 🎓 known
   - Transform: 👂 heard
-  - Async Pool: k
+  - Async Pool: 🎓 known
   - Async Queue: 🎓 known
-  - Async Collector: k
+  - Async Collector: 🎓 known
   - Semaphore: 👂 heard
   - Mutex: 👂 heard
   - Spin Lock: 👂 heard
@@ -74,8 +74,8 @@
   - Error handling in async code: 🖐️ used
   - Better stack traces with return await: 👂 heard
   - JSON streaming serialization: 👂 heard
-  - AsyncLocalStorage: h
-  - AsyncResource: h
+  - AsyncLocalStorage: 👂 heard
+  - AsyncResource: 👂 heard
 - Techniques
   - Async.js library
   - RxJS library: 👂 heard
@@ -83,7 +83,7 @@
   - Promise.allSettled: 🖐️ used
   - Promise.race: 🖐️ used
   - Promise.any: 🖐️ used
-  - Web Locks API: h
+  - Web Locks API: 👂 heard
   - IPC
   - Channel API
   - Revealing constructor: 🖐️ used

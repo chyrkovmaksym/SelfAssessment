@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-569&nbsp;/&nbsp;715&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/chyrkovmaksym/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-574&nbsp;/&nbsp;715&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/chyrkovmaksym/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-569&nbsp;/&nbsp;715&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/chyrkovmaksym/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-574&nbsp;/&nbsp;715&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/chyrkovmaksym/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/chyrkovmaksym/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-569&nbsp;/&nbsp;715&nbsp;/&nbsp;731-009933?style=flat-square"></a>
+<a href="https://github.com/chyrkovmaksym/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-574&nbsp;/&nbsp;715&nbsp;/&nbsp;731-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -27,9 +27,9 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `10` | `13` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standards | `5` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Language | `56` | `57` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Language | `57` | `57` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Statements | `19` | `19` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `9` | `10` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `10` | `10` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `8` | `8` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `14` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `5` | `6` |
@@ -38,8 +38,8 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Async contracts | `18` | `18` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async adapters and utils | `5` | `5` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async abstractions interfaces | `11` | `11` |
-| &nbsp;&nbsp;&nbsp;&nbsp; JavaScript & Node.js specific | `12` | `17` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Techniques | `6` | `10` |
+| &nbsp;&nbsp;&nbsp;&nbsp; JavaScript & Node.js specific | `14` | `17` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Techniques | `7` | `10` |
 | [NodeJS](/Skills/NodeJS.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Internals and concepts | `7` | `9` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Modularity, layers and dependencies | `11` | `14` |
@@ -67,59 +67,41 @@
 
 | To start asynchronous programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| Getters and setters | 🤷 unknown | ⟶  | 👂 heard |
-| `return` | 🤷 unknown | ⟶  | 🖐️ used |
 
-Total: you have `70` of `72` skills, `2` to be upgraded, and `32` above needed
+Total: you have `72` of `72` skills, `0` to be upgraded, and `33` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| Getters and setters | 🤷 unknown | ⟶  | 🖐️ used |
-| `return` | 🤷 unknown | ⟶  | 🖐️ used |
-| `Reflect` | 👂 heard | ⟶  | 🎓 known |
 
-Total: you have `95` of `98` skills, `3` to be upgraded, and `21` above needed
+Total: you have `98` of `98` skills, `0` to be upgraded, and `21` above needed
 
 ## [Async](/Skills/Async.md)
 
 
 | For Node.js applied programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| Sync generator | 👂 heard | ⟶  | 🎓 known |
-| Async Generator | 👂 heard | ⟶  | 🎓 known |
-| Async Iterator | 👂 heard | ⟶  | 🎓 known |
 | Signal | 👂 heard | ⟶  | 🖐️ used |
 | Stream | 👂 heard | ⟶  | 🖐️ used |
-| EventEmitter | 🎓 known | ⟶  | 🖐️ used |
 | Readable | 🎓 known | ⟶  | 🖐️ used |
 | Writable | 🎓 known | ⟶  | 🖐️ used |
 | Transform | 👂 heard | ⟶  | 🖐️ used |
-| Async Pool | 👂 heard | ⟶  | 🎓 known |
-| Async Collector | 👂 heard | ⟶  | 🎓 known |
 | `nextTick` | 🎓 known | ⟶  | 🖐️ used |
 | AbortController | 🤷 unknown | ⟶  | 🖐️ used |
 | AbortSignal | 🤷 unknown | ⟶  | 🎓 known |
 | Better stack traces with return await | 👂 heard | ⟶  | 🖐️ used |
-| AsyncLocalStorage | 🤷 unknown | ⟶  | 👂 heard |
-| AsyncResource | 🤷 unknown | ⟶  | 👂 heard |
-| Web Locks API | 🤷 unknown | ⟶  | 👂 heard |
 
-Total: you have `32` of `50` skills, `18` to be upgraded, and `11` above needed
+Total: you have `41` of `50` skills, `9` to be upgraded, and `14` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| Async Iterator | 👂 heard | ⟶  | 🎓 known |
 | Signal | 👂 heard | ⟶  | 🎓 known |
 | Stream | 👂 heard | ⟶  | 🎓 known |
-| EventEmitter | 🎓 known | ⟶  | 🖐️ used |
 | Transform | 👂 heard | ⟶  | 🎓 known |
-| Async Pool | 👂 heard | ⟶  | 🎓 known |
-| Async Collector | 👂 heard | ⟶  | 🎓 known |
 | AbortController | 🤷 unknown | ⟶  | 🖐️ used |
 | AbortSignal | 🤷 unknown | ⟶  | 🎓 known |
 | Better stack traces with return await | 👂 heard | ⟶  | 🖐️ used |
 
-Total: you have `27` of `37` skills, `10` to be upgraded, and `11` above needed
+Total: you have `31` of `37` skills, `6` to be upgraded, and `12` above needed
 
 | For Node.js platform/system programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -128,21 +110,17 @@ Total: you have `27` of `37` skills, `10` to be upgraded, and `11` above needed
 | Dead locks | 🎓 known | ⟶  | 🖐️ used |
 | Live locks | 🤷 unknown | ⟶  | 🖐️ used |
 | Concurrent programming | 👂 heard | ⟶  | 🎓 known |
-| Sync generator | 👂 heard | ⟶  | 🖐️ used |
-| Async Generator | 👂 heard | ⟶  | 🖐️ used |
-| Async Iterator | 👂 heard | ⟶  | 🖐️ used |
 | Signal | 👂 heard | ⟶  | 🖐️ used |
 | Stream | 👂 heard | ⟶  | 🖐️ used |
 | Chain of responsibility | 🎓 known | ⟶  | 🖐️ used |
 | Locks | 🎓 known | ⟶  | 🖐️ used |
-| EventEmitter | 🎓 known | ⟶  | 🖐️ used |
 | Observable/Observer | 👂 heard | ⟶  | 🖐️ used |
 | Readable | 🎓 known | ⟶  | 🖐️ used |
 | Writable | 🎓 known | ⟶  | 🖐️ used |
 | Transform | 👂 heard | ⟶  | 🖐️ used |
-| Async Pool | 👂 heard | ⟶  | 🖐️ used |
+| Async Pool | 🎓 known | ⟶  | 🖐️ used |
 | Async Queue | 🎓 known | ⟶  | 🖐️ used |
-| Async Collector | 👂 heard | ⟶  | 🖐️ used |
+| Async Collector | 🎓 known | ⟶  | 🖐️ used |
 | Semaphore | 👂 heard | ⟶  | 🖐️ used |
 | Mutex | 👂 heard | ⟶  | 🎓 known |
 | Spin Lock | 👂 heard | ⟶  | 🎓 known |
@@ -155,14 +133,14 @@ Total: you have `27` of `37` skills, `10` to be upgraded, and `11` above needed
 | ref() and unref() | 👂 heard | ⟶  | 🖐️ used |
 | Better stack traces with return await | 👂 heard | ⟶  | 🖐️ used |
 | JSON streaming serialization | 👂 heard | ⟶  | 🖐️ used |
-| AsyncLocalStorage | 🤷 unknown | ⟶  | 🖐️ used |
-| AsyncResource | 🤷 unknown | ⟶  | 🖐️ used |
+| AsyncLocalStorage | 👂 heard | ⟶  | 🖐️ used |
+| AsyncResource | 👂 heard | ⟶  | 🖐️ used |
 | Async.js library | 🤷 unknown | ⟶  | 👂 heard |
-| Web Locks API | 🤷 unknown | ⟶  | 🎓 known |
+| Web Locks API | 👂 heard | ⟶  | 🎓 known |
 | IPC | 🤷 unknown | ⟶  | 🎓 known |
 | Channel API | 🤷 unknown | ⟶  | 🎓 known |
 
-Total: you have `37` of `75` skills, `38` to be upgraded, and `10` above needed
+Total: you have `41` of `75` skills, `34` to be upgraded, and `10` above needed
 
 ## [NodeJS](/Skills/NodeJS.md)
 
