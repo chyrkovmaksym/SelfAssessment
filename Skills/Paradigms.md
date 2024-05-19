@@ -1,91 +1,91 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming: k
-  - Imperative programming: u
-  - Structured programming: u
-  - Non-structured programming: u
-  - Functional programming: u
-  - Prototype-based programming: u
-  - Object-oriented programming: u
-  - Object-based programming: u
-  - Generic programming: u
-  - Concurrent computing: h
-  - Asynchronous programming: u
-  - Parallel programming: u
-  - Reactive programming: k
+  - Procedural programming: 🎓 known
+  - Imperative programming: 🖐️ used
+  - Structured programming: 🖐️ used
+  - Non-structured programming: 🖐️ used
+  - Functional programming: 🖐️ used
+  - Prototype-based programming: 🖐️ used
+  - Object-oriented programming: 🖐️ used
+  - Object-based programming: 🖐️ used
+  - Generic programming: 🖐️ used
+  - Concurrent computing: 👂 heard
+  - Asynchronous programming: 🖐️ used
+  - Parallel programming: 🖐️ used
+  - Reactive programming: 🎓 known
   - Functional-reactive (FRP)
   - Automata-based programming
-  - Domain-specific languages: h
-  - Multi-paradigm programming: u
-  - Metaprogramming: h
-  - Actor model: k
-  - Lambda calculus: h
+  - Domain-specific languages: 👂 heard
+  - Multi-paradigm programming: 🖐️ used
+  - Metaprogramming: 👂 heard
+  - Actor model: 🎓 known
+  - Lambda calculus: 👂 heard
   - Black box
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor: u
-  - Operator `new`: u
-  - Static method: u
-  - Method: u
-  - Async method: u
-  - Getters, Setters: u
-  - Public fields: u
-  - Private fields: u
-  - Field declarations: u
-  - Inheritance: u
-  - Parent class: u
-  - Polymorphism: u
-  - Abstract class: u
-  - Interface: u
-  - Encapsulation: u
-  - Hidden class: u
-  - Object form: u
-  - Instance: u
-  - Introspection: u
-  - Reflection: u
-  - The diamond problem: h
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 🖐️ used
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
+  - Encapsulation: 🖐️ used
+  - Hidden class: 🖐️ used
+  - Object form: 🖐️ used
+  - Instance: 🖐️ used
+  - Introspection: 🖐️ used
+  - Reflection: 🖐️ used
+  - The diamond problem: 👂 heard
 - GRASP
-  - Information expert: h
-  - Creator: h
-  - Controller: h
-  - Indirection: h
-  - Low coupling: h
-  - High cohesion: h
-  - Protected variations: h
-  - Pure fabrication: h
+  - Information expert: 👂 heard
+  - Creator: 👂 heard
+  - Controller: 👂 heard
+  - Indirection: 👂 heard
+  - Low coupling: 👂 heard
+  - High cohesion: 👂 heard
+  - Protected variations: 👂 heard
+  - Pure fabrication: 👂 heard
 - SOLID
-  - Single-responsibility principle (SRP): u
-  - Open–closed principle (OCP): u
-  - Liskov substitution principle (LSP): u
-  - Interface segregation principle (ISP): u
-  - Dependency inversion principle (DIP): u
+  - Single-responsibility principle (SRP): 🖐️ used
+  - Open–closed principle (OCP): 🖐️ used
+  - Liskov substitution principle (LSP): 🖐️ used
+  - Interface segregation principle (ISP): 🖐️ used
+  - Dependency inversion principle (DIP): 🖐️ used
 - Patterns
-  - Singleton: u
-  - Factory Method: u
-  - Abstract Factory: u
-  - Adapter: u
-  - Observer: u
-  - Strategy: u
-  - Facade: u
-  - Proxy: u
-  - Chain of Responsibility: u
-  - Command: u
-  - Iterator: u
-  - State: u
-  - Bridge: u
-  - Builder: u
-  - Prototype: u
-  - Composite: u
-  - Decorator: u
-  - Flyweight: u
-  - Mediator: h
-  - Memento: h
-  - Template Method: h
-  - Visitor: u
-  - Reactor: u
+  - Singleton: 🖐️ used
+  - Factory Method: 🖐️ used
+  - Abstract Factory: 🖐️ used
+  - Adapter: 🖐️ used
+  - Observer: 🖐️ used
+  - Strategy: 🖐️ used
+  - Facade: 🖐️ used
+  - Proxy: 🖐️ used
+  - Chain of Responsibility: 🖐️ used
+  - Command: 🖐️ used
+  - Iterator: 🖐️ used
+  - State: 🖐️ used
+  - Bridge: 🖐️ used
+  - Builder: 🖐️ used
+  - Prototype: 🖐️ used
+  - Composite: 🖐️ used
+  - Decorator: 🖐️ used
+  - Flyweight: 🖐️ used
+  - Mediator: 👂 heard
+  - Memento: 👂 heard
+  - Template Method: 👂 heard
+  - Visitor: 🖐️ used
+  - Reactor: 🖐️ used
   - Active object
   - Delegation
