@@ -48,11 +48,11 @@ It should look like following example after filling it out. And will be automati
 ```
 - Syntax                       - Syntax
   - Value !             ⤑        - Value: 🙋 explained
-  - Identifier: *       ⤑        - Identifier: 🖐️ used
+  - Identifier: *       ⤑        - Identifier: u
   - Variable: !         ⤑        - Variable: 🙋 explained
-  - Constant *          ⤑        - Constant: 🖐️ used
-  - Scalar *            ⤑        - Scalar: 🖐️ used
-  - Literal ~           ⤑        - Literal: 👂 heard
-  - Expression: *       ⤑        - Expression: 🖐️ used
-  - Heap: +                      - Heap: 🎓 known
+  - Constant *          ⤑        - Constant: u
+  - Scalar *            ⤑        - Scalar: u
+  - Literal ~           ⤑        - Literal: h
+  - Expression: *       ⤑        - Expression: u
+  - Heap: +                      - Heap: k
 ```

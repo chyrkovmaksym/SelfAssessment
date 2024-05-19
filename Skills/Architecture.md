@@ -1,40 +1,40 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
-  - CQS
-  - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
-  - Transport-agnostic
-  - Framework-agnostic
-  - Code coverage
-  - Cohesion
-  - Coupling
-  - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
-  - Law of Demeter (LoD)
+  - Modularity: u
+  - Components: u
+  - Directories: u
+  - GRASP: u
+  - SOLID: u
+  - GoF patterns: u
+  - CQS: h
+  - Leaking abstractions: u
+  - Multiparadigm code: u
+  - Contract programming: h
+  - Platform-agnostic: u
+  - Transport-agnostic: h
+  - Framework-agnostic: k
+  - Code coverage: u
+  - Cohesion: k
+  - Coupling: k
+  - Cyclomatic complexity: h
+  - Reliability: u
+  - Quality: u
+  - Availability: u
+  - Flexibility: u
+  - Law of Demeter (LoD): u
 - Application architecture
-  - Isolation between layer
-  - Domain-specific language (DSL)
-  - System vs applied code
-  - Multilayer approach
+  - Isolation between layer: u
+  - Domain-specific language (DSL): h
+  - System vs applied code: h
+  - Multilayer approach: k
   - Hexagonal architecture
-  - Separation of concerns (SoC)
-  - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
-  - Domain-driven design (DDD)
+  - Separation of concerns (SoC): u
+  - Metaprogramming: h
+  - Inversion of control (IoC): u
+  - Dependency injection (DI): u
+  - Clean architecture: u
+  - Domain-driven design (DDD): h
   - Pub/sub
   - Message brocker
   - Agent
@@ -43,11 +43,11 @@
   - CQRS
   - Event sourcing
   - E-R data modeling
-  - Entity-relationship diagram
+  - Entity-relationship diagram: h
   - IDEF1X
   - UML
   - Work breakdown structure
-  - Budget estimation
+  - Budget estimation: h
   - Distributed systems
   - High-intensive computing
   - Load balancing
@@ -62,33 +62,33 @@
   - Bus factor
 - Solution architecture
   - A software requirements specification (SRS)
-  - Solution visions
-  - Solution capabilities
-  - System design
+  - Solution visions: h
+  - Solution capabilities: h
+  - System design: k
   - Process modelling
-  - Data modelling
+  - Data modelling: h
   - Solution components
-  - Risk assessment
+  - Risk assessment: h
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds: h
   - BPMN
-  - Low-code
-  - No-code
+  - Low-code: h
+  - No-code: h
   - Metric
   - Metric abuse
   - ACID
   - CAP theorem
-  - Single source of truth (SSOT)
+  - Single source of truth (SSOT): u
 - Enterprise architecture
-  - Understanding business needs
-  - Enterprise strategy
-  - Integration with subsystems
-  - Enterprise vision
-  - Enterprise capabilities
-  - Project scope
+  - Understanding business needs: u
+  - Enterprise strategy: h
+  - Integration with subsystems: h
+  - Enterprise vision: h
+  - Enterprise capabilities: h
+  - Project scope: u
   - Enterprise service bus
-  - Service-oriented architecture
-  - Microservices
+  - Service-oriented architecture: h
+  - Microservices: h
   - Process choreography
   - Service orchestration
   - Data warehouse
