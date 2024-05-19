@@ -112,7 +112,6 @@ Total: you have `31` of `37` skills, `6` to be upgraded, and `12` above needed
 | Concurrent programming | 👂 heard | ⟶  | 🎓 known |
 | Signal | 👂 heard | ⟶  | 🖐️ used |
 | Stream | 👂 heard | ⟶  | 🖐️ used |
-| Chain of responsibility | 🎓 known | ⟶  | 🖐️ used |
 | Locks | 🎓 known | ⟶  | 🖐️ used |
 | Observable/Observer | 👂 heard | ⟶  | 🖐️ used |
 | Readable | 🎓 known | ⟶  | 🖐️ used |
@@ -140,7 +139,7 @@ Total: you have `31` of `37` skills, `6` to be upgraded, and `12` above needed
 | IPC | 🤷 unknown | ⟶  | 🎓 known |
 | Channel API | 🤷 unknown | ⟶  | 🎓 known |
 
-Total: you have `41` of `75` skills, `34` to be upgraded, and `10` above needed
+Total: you have `42` of `75` skills, `33` to be upgraded, and `10` above needed
 
 ## [NodeJS](/Skills/NodeJS.md)
 
