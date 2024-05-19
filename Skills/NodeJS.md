@@ -31,7 +31,7 @@
   - Process-based permissions: 👂 heard
   - Graceful shutdown: 👂 heard
   - Clustering: 👂 heard
-  - Watch filesystem changes with --watch: 👂 heard
+  - Watch filesystem changes with --watch: 🖐️ used
 - Internal API
   - Streams API
   - Web Streams API
@@ -75,11 +75,11 @@
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST: 🎓 known
+  - REST: 🖐️ used
   - RPC
-  - Routing: 🎓 known
-  - DoS: 👂 heard
-  - DDoS: 👂 heard
+  - Routing: 🖐️ used
+  - DoS: 🎓 known
+  - DDoS: 🎓 known
   - XSS
   - Path traversal
   - CSRF
@@ -102,7 +102,7 @@
   - Console: 🖐️ used
   - Inspector: 🖐️ used
 - Data access
-  - Data access layer: 👂 heard
+  - Data access layer: 🖐️ used
   - Repository
   - Active record
   - Query builder
@@ -119,7 +119,7 @@
   - How to avoid mixins
   - Uncaught exceptions: 🖐️ used
   - Heap dump
-  - Debugging tools: 👂 heard
+  - Debugging tools: 🖐️ used
   - Flame graph
   - Memory leaks: 👂 heard
   - Resource leaks

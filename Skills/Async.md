@@ -37,7 +37,7 @@
   - Goroutine: 👂 heard
   - Signal: 👂 heard
   - Stream: 👂 heard
-  - Chain of responsibility: 🎓 known
+  - Chain of responsibility: 🖐️ used
   - Middleware: 🖐️ used
   - Locks: 🎓 known
 - Async adapters and utils
