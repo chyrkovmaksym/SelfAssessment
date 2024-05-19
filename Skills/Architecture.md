@@ -1,0 +1,100 @@
+## Architecture
+
+- Application structure
+  - Modularity: 🖐️ used
+  - Components: 🖐️ used
+  - Directories: 🖐️ used
+  - GRASP: 🖐️ used
+  - SOLID: 🖐️ used
+  - GoF patterns: 🖐️ used
+  - CQS: 👂 heard
+  - Leaking abstractions: 🖐️ used
+  - Multiparadigm code: 🖐️ used
+  - Contract programming: 👂 heard
+  - Platform-agnostic: 🖐️ used
+  - Transport-agnostic: 👂 heard
+  - Framework-agnostic: 🎓 known
+  - Code coverage: 🖐️ used
+  - Cohesion: 🎓 known
+  - Coupling: 🎓 known
+  - Cyclomatic complexity: 👂 heard
+  - Reliability: 🖐️ used
+  - Quality: 🖐️ used
+  - Availability: 🖐️ used
+  - Flexibility: 🖐️ used
+  - Law of Demeter (LoD): 🖐️ used
+- Application architecture
+  - Isolation between layer: 🖐️ used
+  - Domain-specific language (DSL): 👂 heard
+  - System vs applied code: 👂 heard
+  - Multilayer approach: 🎓 known
+  - Hexagonal architecture
+  - Separation of concerns (SoC): 🖐️ used
+  - Metaprogramming: 👂 heard
+  - Inversion of control (IoC): 🖐️ used
+  - Dependency injection (DI): 🖐️ used
+  - Clean architecture: 🖐️ used
+  - Domain-driven design (DDD): 👂 heard
+  - Pub/sub
+  - Message brocker
+  - Agent
+  - Service locator
+  - Message Queue (MQ)
+  - CQRS
+  - Event sourcing
+  - E-R data modeling
+  - Entity-relationship diagram: 👂 heard
+  - IDEF1X
+  - UML
+  - Work breakdown structure
+  - Budget estimation: 👂 heard
+  - Distributed systems
+  - High-intensive computing
+  - Load balancing
+  - Gateways
+  - On-premises
+  - IaaS
+  - PaaS
+  - SaaS
+  - FaaS clouds
+  - Serverless
+  - Vendor lock-in
+  - Bus factor
+- Solution architecture
+  - A software requirements specification (SRS)
+  - Solution visions: 👂 heard
+  - Solution capabilities: 👂 heard
+  - System design: 🎓 known
+  - Process modelling
+  - Data modelling: 👂 heard
+  - Solution components
+  - Risk assessment: 👂 heard
+  - Non Functional Requirements (NFR)
+  - Clouds: 👂 heard
+  - BPMN
+  - Low-code: 👂 heard
+  - No-code: 👂 heard
+  - Metric
+  - Metric abuse
+  - ACID
+  - CAP theorem
+  - Single source of truth (SSOT): 🖐️ used
+- Enterprise architecture
+  - Understanding business needs: 🖐️ used
+  - Enterprise strategy: 👂 heard
+  - Integration with subsystems: 👂 heard
+  - Enterprise vision: 👂 heard
+  - Enterprise capabilities: 👂 heard
+  - Project scope: 🖐️ used
+  - Enterprise service bus
+  - Service-oriented architecture: 👂 heard
+  - Microservices: 👂 heard
+  - Process choreography
+  - Service orchestration
+  - Data warehouse
+  - Business Intelligence
+  - OLAP
+  - OLTP
+  - Conways Law
+  - Quality assurance
+  - Engineering Hygiene

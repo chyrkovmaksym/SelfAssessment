@@ -11,18 +11,24 @@
   - Object-based programming: 🖐️ used
   - Generic programming: 🖐️ used
   - Concurrent computing: 👂 heard
-  - Asyncronous programming: 🖐️ used
-  - Parallel programming: 🎓 known
+  - Asynchronous programming: 🖐️ used
+  - Parallel programming: 🖐️ used
   - Reactive programming: 🎓 known
-  - FRP (Functional-reactive)g: 👂 heard
-  - Automata-based programming: 👂 heard
-  - Domain-specific languages: 🎓 known
+  - Functional-reactive (FRP)
+  - Automata-based programming
+  - Domain-specific languages: 👂 heard
   - Multi-paradigm programming: 🖐️ used
   - Metaprogramming: 👂 heard
-  - Actor model: 👂 heard
+  - Actor model: 🎓 known
+  - Lambda calculus: 👂 heard
+  - Black box
+  - Information hiding
+  - Aspect-oriented programming
+  - Anemic domain model
+  - Class composition
 - OOP basics
-  - constructor: 🖐️ used
-  - new: 🖐️ used
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
   - Static method: 🖐️ used
   - Method: 🖐️ used
   - Async method: 🖐️ used
@@ -38,29 +44,48 @@
   - Encapsulation: 🖐️ used
   - Hidden class: 🖐️ used
   - Object form: 🖐️ used
-  - instance: 🖐️ used
-  - Introspection: 👂 heard
-  - Reflection: 👂 heard
+  - Instance: 🖐️ used
+  - Introspection: 🖐️ used
+  - Reflection: 🖐️ used
+  - The diamond problem: 👂 heard
+- GRASP
+  - Information expert: 👂 heard
+  - Creator: 👂 heard
+  - Controller: 👂 heard
+  - Indirection: 👂 heard
+  - Low coupling: 👂 heard
+  - High cohesion: 👂 heard
+  - Protected variations: 👂 heard
+  - Pure fabrication: 👂 heard
+- SOLID
+  - Single-responsibility principle (SRP): 🖐️ used
+  - Open–closed principle (OCP): 🖐️ used
+  - Liskov substitution principle (LSP): 🖐️ used
+  - Interface segregation principle (ISP): 🖐️ used
+  - Dependency inversion principle (DIP): 🖐️ used
 - Patterns
   - Singleton: 🖐️ used
   - Factory Method: 🖐️ used
-  - Abstract Factory: 🎓 known
+  - Abstract Factory: 🖐️ used
   - Adapter: 🖐️ used
-  - Observer: 🎓 known
+  - Observer: 🖐️ used
   - Strategy: 🖐️ used
   - Facade: 🖐️ used
   - Proxy: 🖐️ used
   - Chain of Responsibility: 🖐️ used
-  - Command: 🎓 known
+  - Command: 🖐️ used
   - Iterator: 🖐️ used
   - State: 🖐️ used
   - Bridge: 🖐️ used
   - Builder: 🖐️ used
   - Prototype: 🖐️ used
-  - Composite: 🎓 known
-  - Decorator: 🎓 known
-  - Flyweight: 👂 heard
+  - Composite: 🖐️ used
+  - Decorator: 🖐️ used
+  - Flyweight: 🖐️ used
   - Mediator: 👂 heard
   - Memento: 👂 heard
   - Template Method: 👂 heard
-  - Visitor: 👂 heard
+  - Visitor: 🖐️ used
+  - Reactor: 🖐️ used
+  - Active object
+  - Delegation
