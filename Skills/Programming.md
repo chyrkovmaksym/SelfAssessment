@@ -36,21 +36,21 @@
   - pure function: 🖐️ used
   - lambda expression: 🖐️ used
   - side effects: 🖐️ used
-  - closure: 🎓 known
-  - partial application: 🎓 known
-  - curry: 🎓 known
+  - closure: 🖐️ used
+  - partial application: 🖐️ used
+  - curry: 🖐️ used
   - higher order: 🖐️ used
   - recursion: 🖐️ used
   - callback: 🖐️ used
   - listener: 🖐️ used
-  - compose: 🎓 known
-  - pipe: 🎓 known
+  - compose: 🖐️ used
+  - pipe: 🖐️ used
   - memoize: 🖐️ used
   - wrapper: 🖐️ used
-  - functor: 👂 heard
-  - monad: 👂 heard
+  - functor: 🎓 known
+  - monad: 🎓 known
   - monoid: 👂 heard
-  - generator: 👂 heard
+  - generator: 🖐️ used
   - coroutine: 🖐️ used
 - Data structures
   - array: 🖐️ used
@@ -62,36 +62,36 @@
   - class: 🖐️ used
   - collection: 🖐️ used
   - set: 🖐️ used
-  - hash table: 👂 heard
-  - linked list: 🎓 known
-  - doubly list: 🎓 known
-  - unrolled list: 👂 heard
-  - circular list: 👂 heard
-  - queue: 🎓 known
-  - stack: 🎓 known
+  - hash table: 🖐️ used
+  - linked list: 🚀 constructed
+  - doubly list: 🚀 constructed
+  - unrolled list: 🎓 known
+  - circular list: 🎓 known
+  - queue: 🖐️ used
+  - stack: 🖐️ used
   - deque: 🎓 known
   - tree: 🎓 known
   - graph: 🎓 known
-  - iterator: 🎓 known
-  - mutable state: 🎓 known
-  - immutable state: 🎓 known
+  - iterator: 🖐️ used
+  - mutable state: 🖐️ used
+  - immutable state: 🖐️ used
   - serialization: 🖐️ used
   - string parsing: 🖐️ used
 - Process & style
   - compiler: 🖐️ used
   - transpiler: 🖐️ used
   - linter: 🖐️ used
-  - polyfill: 🎓 known
+  - polyfill: 🖐️ used
   - debugger: 🖐️ used
   - garbage collection: 🖐️ used
   - refactoring: 🖐️ used
   - code review: 🖐️ used
-  - antipatterns: 🎓 known
+  - antipatterns: 🖐️ used
   - paradigm: 🖐️ used
   - algorithm: 🖐️ used
-  - magic numbers: 🎓 known
-  - hardcode: 🎓 known
-  - complexity: 🎓 known
+  - magic numbers: 🖐️ used
+  - hardcode: 🖐️ used
+  - complexity: 🖐️ used
   - decomposition: 🖐️ used
   - spaghetti: 🖐️ used
   - silver bullet: 🖐️ used
@@ -101,6 +101,6 @@
   - duplicate code: 🖐️ used
   - exception: 🖐️ used
   - return early: 🖐️ used
-  - unittest: 🎓 known
+  - unittest: 🖐️ used
   - git: 🖐️ used
   - github: 🖐️ used

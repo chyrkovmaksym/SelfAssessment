@@ -1,7 +1,7 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming: 🎓 known
+  - Procedural programming: 🖐️ used
   - Imperative programming: 🖐️ used
   - Structured programming: 🖐️ used
   - Non-structured programming: 🖐️ used
@@ -9,7 +9,7 @@
   - Prototype-based programming: 🖐️ used
   - Object-oriented programming: 🖐️ used
   - Object-based programming: 🖐️ used
-  - Generic programming: 🎓 known
+  - Generic programming: 🖐️ used
   - Concurrent computing: 👂 heard
   - Asyncronous programming: 🖐️ used
   - Parallel programming: 🎓 known
@@ -43,20 +43,20 @@
   - Reflection: 👂 heard
 - Patterns
   - Singleton: 🖐️ used
-  - Factory Method: 🎓 known
+  - Factory Method: 🖐️ used
   - Abstract Factory: 🎓 known
   - Adapter: 🖐️ used
-  - Observer: 👂 heard
+  - Observer: 🎓 known
   - Strategy: 🖐️ used
   - Facade: 🖐️ used
-  - Proxy: 👂 heard
-  - Chain of Responsibility: 🎓 known
-  - Command: 👂 heard
-  - Iterator: 🎓 known
+  - Proxy: 🖐️ used
+  - Chain of Responsibility: 🖐️ used
+  - Command: 🎓 known
+  - Iterator: 🖐️ used
   - State: 🖐️ used
-  - Bridge: 🎓 known
-  - Builder: 👂 heard
-  - Prototype: 🎓 known
+  - Bridge: 🖐️ used
+  - Builder: 🖐️ used
+  - Prototype: 🖐️ used
   - Composite: 🎓 known
   - Decorator: 🎓 known
   - Flyweight: 👂 heard

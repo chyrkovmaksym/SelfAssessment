@@ -5,41 +5,41 @@
   - this: 🖐️ used
   - arrow function: 🖐️ used
   - async function: 🖐️ used
-  - call: 🎓 known
-  - bind: 🎓 known
-  - apply: 🎓 known
+  - call: 🖐️ used
+  - bind: 🖐️ used
+  - apply: 🖐️ used
   - instanceof: 🖐️ used
   - ...spread: 🖐️ used
   - ...rest: 🖐️ used
   - typeof: 🖐️ used
   - destructuring: 🖐️ used
-  - generator: 👂 heard
-  - iterator: 👂 heard
-  - async generator: 👂 heard
-  - async iterator: 👂 heard
-  - chaining: 👂 heard
-  - optional chaining: 👂 heard
+  - generator: 🖐️ used
+  - iterator: 🖐️ used
+  - async generator: 🖐️ used
+  - async iterator: 🖐️ used
+  - chaining: 🖐️ used
+  - optional chaining: 🎓 known
   - IIFE: 🖐️ used
   - global: 🖐️ used
-  - globalThis: 👂 heard
+  - globalThis: 🎓 known
   - window: 🖐️ used
-  - getters and setters: 🎓 known
-  - __proto__: 🎓 known
-  - prototype: 🎓 known
+  - getters and setters: 🖐️ used
+  - __proto__: 🖐️ used
+  - prototype: 🖐️ used
   - equality operators: 🖐️ used
   - logical operators: 🖐️ used
   - bitwise operators: 🖐️ used
   - ternary operator: 🖐️ used
   - void: 🖐️ used
-  - yield: 🎓 known
+  - yield: 🖐️ used
   - await: 🖐️ used
   - template literal: 🖐️ used
   - strict mode: 🖐️ used
   - delete: 🖐️ used
   - in: 🖐️ used
   - super: 🖐️ used
-  - Symbol: 🎓 known
-  - Reflect
+  - Symbol: 🖐️ used
+  - Reflect: 👂 heard
 - Statements
   - if: 🖐️ used
   - while: 🖐️ used
@@ -47,7 +47,7 @@
   - for: 🖐️ used
   - for..in: 🖐️ used
   - for..of: 🖐️ used
-  - for await: 🎓 known
+  - for await: 🖐️ used
   - throw: 🖐️ used
   - break: 🖐️ used
   - continue: 🖐️ used
@@ -64,23 +64,23 @@
   - function expression: 🖐️ used
   - return: 🖐️ used
   - default parameters: 🖐️ used
-  - functional object: 👂 heard
+  - functional object: 🎓 known
 - Data structures
   - Array: 🖐️ used
   - mixin: 🎓 known
   - extend: 🖐️ used
-  - typed arrays: 👂 heard
-  - Map: 🎓 known
-  - Set: 🎓 known
+  - typed arrays: 🎓 known
+  - Map: 🖐️ used
+  - Set: 🚀 constructed
   - undefined: 🖐️ used
   - null: 🖐️ used
-  - Proxy: 👂 heard
-  - weak collections: 👂 heard
+  - Proxy: 🎓 known
+  - weak collections: 🎓 known
   - timers: 🖐️ used
-  - EventEmitter: 🎓 known
+  - EventEmitter: 🖐️ used
   - RegExp: 🖐️ used
   - Date: 🖐️ used
-  - BigInt: 👂 heard
+  - BigInt: 🖐️ used
 - Infrastructure
   - V8: 🖐️ used
   - Node.js: 🖐️ used

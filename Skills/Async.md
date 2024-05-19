@@ -1,9 +1,9 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: 🎓 known
+  - Event loop: 🖐️ used
   - try..catch: 🖐️ used
-  - Non-blocking: 🎓 known
+  - Non-blocking: 🖐️ used
   - Async I/O: 👂 heard
   - Thread pool: 👂 heard
   - Pattern Reactor: 👂 heard
@@ -29,23 +29,23 @@
   - Async/await: 🖐️ used
   - Future: 🎓 known
   - Deferred: 🎓 known
-  - Sync generator: 👂 heard
-  - Async Generator: 👂 heard
-  - Async Iterator: 👂 heard
+  - Sync generator: 🖐️ used
+  - Async Generator: 🎓 known
+  - Async Iterator: 🖐️ used
   - Event: 🖐️ used
   - Coroutine: 🖐️ used
   - Goroutine: 👂 heard
   - Signal: 👂 heard
   - Stream: 👂 heard
-  - Chain of responsibility: 🎓 known
+  - Chain of responsibility: 🖐️ used
   - Middleware: 🖐️ used
   - Locks: 🎓 known
 - Async adapters and utils
-  - callbackify: 👂 heard
-  - promisify: 👂 heard
-  - asyncify: 👂 heard
-  - callbacks compose: 👂 heard
-  - async compose: 👂 heard
+  - callbackify: 🖐️ used
+  - promisify: 🖐️ used
+  - asyncify: 🖐️ used
+  - callbacks compose: 🎓 known
+  - async compose: 🎓 known
 - Async abstractions interfaces
   - EventEmitter: 🎓 known
   - Observable/Observer: 👂 heard
@@ -61,7 +61,7 @@
 - JavaScript & Node.js specific
   - Timers: 🖐️ used
   - setImmediate: 🖐️ used
-  - nextTick: 🎓 known
+  - nextTick: 🖐️ used
   - AbortController: 👂 heard
   - AbortSignal: 👂 heard
   - Promise unhandled rejection: 🎓 known
@@ -70,8 +70,8 @@
   - worker_threads: 👂 heard
   - Atomics: 👂 heard
   - High resolution clock: 👂 heard
-  - Callback hell: 🎓 known
-  - Promise hell: 🎓 known
+  - Callback hell: 🖐️ used
+  - Promise hell: 🖐️ used
   - ref() and unref()
   - Error handling in async code: 🎓 known
   - Better stack traces with return await: 👂 heard
@@ -84,10 +84,10 @@
   - async.js library: 👂 heard
   - RxJS library: 👂 heard
   - Async composition: 👂 heard
-  - Promise.all: 🎓 known
-  - Promise.allSettled: 🎓 known
+  - Promise.all: 🖐️ used
+  - Promise.allSettled: 🖐️ used
   - Promise.race: 🎓 known
-  - Promise.any: 🎓 known
+  - Promise.any: 🖐️ used
   - Web Locks API: 👂 heard
   - IPC
   - Channel API
